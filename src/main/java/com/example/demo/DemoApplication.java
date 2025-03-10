@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Bonjour voici mon tp maison cloud Azure!";
+		return "Bonjour, tp azure";
 	}
 }
